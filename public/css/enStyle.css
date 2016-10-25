@@ -1,0 +1,15 @@
+div.navbar-collapse > ul > li > a{
+    color:#f2f2f2;
+    font-size: 1.2em;
+}
+
+h1.contact_h1{
+    color:#fff;
+    font-size: 1.6em;
+}
+
+a.main-button {
+    font-size: 1.5em;
+    width:120px;
+    height:54px;
+}

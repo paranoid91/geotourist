@@ -1,0 +1,47 @@
+div.navbar-collapse > ul > li > a{
+    color:#f2f2f2;
+    font-size: 1em;
+}
+
+h1.contact_h1{
+    color:#fff;
+    font-size: 1.3em;
+}
+
+a.main-button {
+    font-size: 1.4em;
+    width:135px;
+    height:55px;
+}
+
+div.contact-sc-icons h1{
+    font-size: 1.6em !important;
+    color:#666;
+}
+
+a.tour-button{
+    padding: 8px 9px !important;
+}
+
+h3.about_headline{
+    font-size: 1.8em !important;
+}
+
+
+.price-decoration__label-round{
+    width: 93px;
+    height: 93px;
+top:-80px;
+}
+
+.sp-circle{
+  font-size:0.9em;
+  margin-top:23px;
+}
+
+
+@media screen and (min-width: 768px) {
+    div.navbar-collapse > ul {
+        margin-right: -30px;
+    }
+}

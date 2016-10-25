@@ -1,0 +1,37 @@
+div.navbar-collapse > ul > li > a{
+    color:#f2f2f2;
+    font-size: 1.1em;
+}
+
+.navbar-nav>li>a{
+    padding-top: 20px;
+}
+
+h1.contact_h1{
+    color:#fff;
+    font-size: 1.5em;
+}
+
+a.main-button {
+    font-size: 1.4em;
+}
+
+a.main-button{
+    width:120px;
+    height:54px;
+}
+
+a.tour-button{
+    padding: 8px 9px !important;
+}
+
+.price-decoration__label-round{
+    width: 100px !important;
+    height: 90px !important;
+    top:-80px;
+}
+
+.sp-circle{
+  font-size:0.9em;
+  margin-top:25px;
+}
